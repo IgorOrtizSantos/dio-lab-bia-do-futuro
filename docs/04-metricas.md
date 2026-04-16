@@ -167,11 +167,11 @@ Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
 No geral o Cafia funcionou muito bem até onde limitamos, em diversos testes ele apenas errou em um, justamente na previsão de valor de gastos no mercado. Então vamos avaliar:
-Alucinação: 5/5 - Se manteve dentro das informações e limitações em todos os testes.
-Consistência: 5/5 - Tem uma personalidade bem definida nas respostas e matem um padrão que eu particulamente gostei.
-Engajamento e Experiência do Usuário: 4/5 - Por mais que as respostas tenham sido satisfatórias e ele me sugira mais tópicos achei as respostas muito longas em primeiro momento.
+- Alucinação: 5/5 - Se manteve dentro das informações e limitações em todos os testes.
+- Consistência: 5/5 - Tem uma personalidade bem definida nas respostas e matem um padrão que eu particulamente gostei.
+- Engajamento e Experiência do Usuário: 4/5 - Por mais que as respostas tenham sido satisfatórias e ele me sugira mais tópicos achei as respostas muito longas em primeiro momento.
 
 **O que pode melhorar:**
-Limitações Declaradas: 3/5 - Em algumas respostas ele acaba fugindo de algumas limitações.
+- Limitações Declaradas: 3/5 - Em algumas respostas ele acaba fugindo de algumas limitações.
 
 ---
